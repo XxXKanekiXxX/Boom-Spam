@@ -95,7 +95,7 @@ echo "SBG-Team"
 sleep 1
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh boomspam.sh
 fi
 
 if
